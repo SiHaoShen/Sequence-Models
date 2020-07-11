@@ -1,6 +1,7 @@
 # Sequence Models Project Notes
 
-	* [Sequence Models](#sequence-models)
+   * [Structuring Machine Learning Projects](#structuring-machine-learning-projects)
+   * [Sequence Models](#sequence-models)
 	  * [Review of the whole Project and Course](#review-of-the-whole-project-and-course)
       * [Building a recurrent neural network - step by step](#building-a-recurrent-neural-network---step-by-step)
       * [Dinosaur Island -- Character-level language model](#dinosaur-island----character-level-language-model)
